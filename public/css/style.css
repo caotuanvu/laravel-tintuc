@@ -1,0 +1,91 @@
+body
+{
+    padding: 0;
+    margin: 0;
+   font-size: 14px;
+}
+.nav-menu {
+    border: 1px solid #FFFFFF;
+
+    background: #fff3cd;
+    color: #000000;
+}
+.nav-menu li {
+    padding: 5px 10px;
+    border: 1px solid #99cb84;
+}
+/*////////////////NAV BAR//////////////////*/
+ul#navbarSupportedContent {
+    background: #fff3cd;
+}
+#navbarSupportedContent li {
+    padding: 20px 20px;
+}
+#navbarSupportedContent li a{
+    color: #000000;
+}
+.content-left {
+    padding: 0px;
+}
+
+.content-right {
+    padding: 0px;
+}
+
+.row-tintuc {
+    border-bottom: 1px solid #31b0d5;
+    padding: 5px 8px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    min-height: 150px;
+}
+ul.list-inline {
+    width: 100%;
+}
+
+ul.list-inline > li {
+  float: left;
+    display: inline-block;
+    padding: 2px 10px;
+}
+
+/*=============LOGIN FORM ADMINISTRATION============*/
+
+.my-form {
+    border: 1px solid #ced4da;
+    padding: 0px;
+    margin-top: 30px;
+}
+
+.form-content {
+    padding: 10px;
+}
+.my-form header {
+    padding: 15px 13px;
+    margin: 0;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0,0,0,.1);
+    background: rgba(248,248,248,.9);
+}
+.my-form footer {
+    display: block;
+    padding: 7px 14px 15px;
+    border-top: 1px solid rgba(0,0,0,.1);
+    background: rgba(248,248,248,.9);
+}
+section   {
+    padding: 10px;
+}
+.my-form footer #btnLogin {
+    float: right;
+    height: 31px;
+    margin: 10px 0 10px 10px;
+    padding: 0 22px;
+    font: 300 15px/29px 'Open Sans',Helvetica,Arial,sans-serif;
+    cursor: pointer;
+
+}
+
+
+
